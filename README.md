@@ -1,24 +1,72 @@
-# README
+# Hello rails back end:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails project as API.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby
+- Rails
+- PostgreSQL
 
-* System dependencies
+## Getting Started
 
-* Configuration
+To get a local copy up and running follow these simple example steps.
 
-* Database creation
+## Instructions
 
-* Database initialization
+```
+$ cd <folder>
+```
 
-* How to run the test suite
+```
+$ git clone git@github.com:PolinaStamenova/hello-rails-back-end.git
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+$ cd hello-rails-back-end
+```
 
-* Deployment instructions
+## Install
 
-* ...
+```
+$ bundle install
+```
+
+## Run
+
+```
+$ rails db:create
+```
+
+```
+$ rails db:migrate
+```
+
+```
+$ rails db:seed
+```
+
+```
+rails s
+```
+
+## Authors
+
+👤 **Polina Stamenova**
+
+- GitHub: [@githubhandle](https://github.com/PolinaStamenova)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/polina-stamenova-a60766112/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/PolinaStamenova/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
