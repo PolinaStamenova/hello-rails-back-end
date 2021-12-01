@@ -3,5 +3,5 @@ Rails.application.routes.draw do
     resources :greetings, only: :index
   end
 
-  root "api/greetings"
+  root "api/greetings#index"
 end
