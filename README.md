@@ -2,6 +2,8 @@
 
 A Rails project as API.
 
+[Link to the front end project PR](https://github.com/PolinaStamenova/hello-rails-front-end-project/pull/2)
+
 ## Built With
 
 - Ruby
